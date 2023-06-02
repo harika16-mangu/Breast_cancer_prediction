@@ -1,8 +1,8 @@
 # Breast_cancer_prediction
 Harnessing the power of machine learning and Python libraries,this innovative approach accurately predicts breast cancer in women, addressing one of the most prevalent health concerns they face
-# Before entering the below information we need to understand what is the need to perform data analysis on breast cancer data?
+## Before entering the below information we need to understand what is the need to perform data analysis on breast cancer data?
 Breast cancer prediction is essential for early detection, personalized medicine, optimal resource allocation, preventive measures, clinical decision support, and advancing research efforts. By leveraging data and predictive models, we can make significant strides in reducing the burden of breast cancer and improving patient outcomes
-# Why this project
+## Why this project
 This project aims to develop a machine learning model for the early prediction of breast cancer. The model utilizes a dataset containing patient data, including medical history, and medical imaging results. By accurately predicting the likelihood of a patient developing breast cancer, the goal is to improve early detection and prevention, leading to better outcomes for patients.
 
 ## Table of Contents
